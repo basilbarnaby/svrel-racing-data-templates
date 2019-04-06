@@ -47,6 +47,7 @@
     padding-left: 0;
 }
 
+
 .race-table-head th {
     border-top: 0;
     border-bottom: 0 !important;
@@ -65,6 +66,7 @@
     font-weight: 300;
     font-size: 0.8em;
     text-transform: uppercase;
+    padding-right: 0 !important;
 }
 
 .race-table-saddle-number {
@@ -93,6 +95,7 @@
 .race-table-win-money,
 .race-table-other-money {
     text-align: right;
+    padding-right: 0 !important;
 }
 
 .race-table-win-money{
