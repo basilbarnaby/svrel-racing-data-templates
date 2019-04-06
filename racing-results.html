@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Bare - Start Bootstrap Template</title>
+  <title>SVREL Race Templates | Racing Results</title>
 
   <!-- Bootstrap core CSS -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -28,13 +28,17 @@
   <!-- Page Content that will be copied into backend -->
   <div class="container">
     <div class="row mt-5">
-      <div class="col-lg-6">
-          <h2 class="text-uppercase race-heading">Race 1</h2>
-          <h5 class="race-sub-heading">$60,000, Starter Optional Claiming</h5>
-      </div>
-      <div class="col-lg-6">
+        <!-- Race Title -->
+        <div class="col-lg-6">
+            <h2 class="text-uppercase race-heading">Race 1</h2>
+            <h5 class="race-sub-heading">$60,000, Starter Optional Claiming</h5>
+        </div>
+        <!-- End of Race Title -->
+
+        <!-- Race Details -->
+        <div class="col-lg-6">
         <dl class="row">
-            <!-- Race Details Headers-->
+            <!-- Race Details Headers -->
             <div class="col-lg-6 race-details-headers">
                 <ul>
                     <li>Off At:</li>
@@ -45,8 +49,9 @@
                     <li>Replay:</li>
                 </ul>
             </div>
-            <!-- End of Race Details Headers-->
-            <!-- Race Details Headers Data-->
+            <!-- End of Race Details Headers -->
+
+            <!-- Race Details Headers Data -->
             <div class="col-lg-6 race-details-headers-data">
                 <ul>   
                     <li>1:30PM</li>
@@ -59,9 +64,13 @@
             </div>
             <!-- End of Race Details Headers-->
         </dl>
-      </div>
+        </div>
+        <!-- End of Race Details -->
     </div>
+
+    <!-- Race Body -->
     <div class="row">
+        <!-- Race Table -->
         <div class="col-lg-12">
             <table class="table race-table">
                 <thead class="race-table-head">
@@ -107,6 +116,9 @@
                 </tbody>
             </table>
         </div>
+        <!-- End of Race Table -->
+
+        <!-- Race Information -->
         <div class="col-lg-12">
             <p class="race-tiny-sub-heading">Also Ran</p>
             <p class="race-text"><span class="race-also-ran">6 - Major Flirt</span><span class="race-also-ran">6 - Major Flirt</span><span class="race-also-ran">6 - Major Flirt</span></p>
@@ -122,6 +134,9 @@
             <p class="race-text"><span class="race-winning-connection-header">Owner:</span><span class="race-winning-connection-text">Chen, Danny J., Cestaro, James and Campbell Road Stables</span></p>
             <p class="race-text"><span class="race-winning-connection-header">Breeder:</span><span class="race-winning-connection-text">Alex Lieblong & JoAnn Lieblong</span></p>
         </div>
+        <!-- End of Race Information -->
+
+        <!-- Wager's Table -->
         <div class="col-lg-12">
             <table class="table table-sm wagers-table">
                 <thead class="wagers-table-head">
@@ -150,11 +165,12 @@
                 </tbody>
             </table>
         </div>
+        <!-- End of Wager's Table -->
     </div>
+    <!-- End of Race Body -->
   </div>
 
   <!-- Bootstrap core JavaScript -->
-  <!-- <script src="js/jquery.min.js"></script> -->
   <script src="js/jquery-3.3.1.slim.min.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
