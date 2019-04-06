@@ -67,20 +67,12 @@
     text-transform: uppercase;
 }
 
-.race-table-lane-number {
+.race-table-saddle-number {
     width: 80px;
 }
 
 .race-table-personnel {
     padding-bottom: 0px;
-}
-
-.race-table-jockey-color {
-    background: #2bca7b;
-    padding: 10px;
-    text-align: right;
-    border-radius: 3px;
-    color: #fff;
 }
 
 .race-table-horse-name {
@@ -168,6 +160,100 @@
 .wagers-table-money{
     text-align: right;
     padding-right: 0 !important;
+}
+
+/** saddle Colors **/
+.race-table-saddle-number {
+    width: 80px;
+    
+}
+
+.saddle {
+    padding: 10px;
+    text-align: right;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.saddle-color-1 {
+    background: red;
+    color: white;
+   
+}
+
+.saddle-color-2 {
+    background: white;
+    color: black;
+}
+
+.saddle-color-3 {
+    background: blue;
+    color: white;
+}
+
+.saddle-color-4 {
+    background: gold;
+    color: black;
+}
+
+.saddle-color-5 {
+    background: green;
+    color: white;
+}
+
+.saddle-color-6 {
+    background: black;
+    color: gold;
+}
+
+.saddle-color-7 {
+    background: orange;
+    color: black;
+}
+
+.saddle-color-8 {
+    background: pink;
+    color: black;
+}
+
+.saddle-color-9 {
+    background: turquoise;
+    color: black;
+}
+
+.saddle-color-10 {
+    background: purple;
+    color: white;
+}
+
+.saddle-color-11 {
+    background: lightgray;
+    color: red;
+}
+
+.saddle-color-12 {
+    background: lime;
+    color: black;
+}
+
+.saddle-color-13 {
+    background: brown;
+    color: white;
+}
+
+.saddle-color-14 {
+    background: maroon;
+    color: yellow;
+}
+
+.saddle-color-15 {
+    background: khaki;
+    color: black;
+}
+
+.saddle-color-16 {
+    background: lightblue;
+    color: red;
 }
 
 @media only screen and (max-width: 991px) {
