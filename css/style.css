@@ -1,0 +1,198 @@
+.race-heading {
+    font-size: 3em;
+}
+
+.race-sub-heading {
+    color:  #a1a1a1;
+    font-weight: 400;
+}
+
+.race-details-headers ul,
+.race-details-headers-data ul{
+    margin: 0;
+    padding: 0;
+    font-size: 0.80em;
+    list-style: none;
+}
+
+.race-details-headers {
+    text-align: right;
+}
+
+.race-details-headers-data{
+    text-align: left;
+}
+
+.race-details-headers,
+.race-details-headers-data{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.race-details-headers ul li,
+.race-details-headers-data ul li{
+    padding: 1px 0;
+}
+
+.race-details-headers,
+.race-tiny-sub-heading,
+.race-winning-connection-header {
+    color: #d3d3d3;
+}
+
+.race-table {}
+
+.race-table-body td {
+    padding-bottom: 0;
+    padding-left: 0;
+}
+
+.race-table-head th {
+    border-top: 0;
+    border-bottom: 0 !important;
+}
+
+.race-table-head-normal {
+    color:  #a1a1a1;
+    font-weight: 500;
+    font-size: 1em;
+    padding-left: 0 !important;
+}
+
+.race-table-head-small{
+    text-align: right;
+    color:  #adadad;
+    font-weight: 300;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+.race-table-lane-number {
+    width: 80px;
+}
+
+.race-table-personnel {
+    padding-bottom: 0px;
+}
+
+.race-table-jockey-color {
+    background: #2bca7b;
+    padding: 10px;
+    text-align: right;
+    border-radius: 3px;
+    color: #fff;
+}
+
+.race-table-horse-name {
+    /* margin-top: -5px !important; */
+    margin-bottom: 0;
+    color: #2bca7b;
+    font-size: 1.25em;
+    font-weight: 300;
+}
+
+.race-table-jockey-name {
+    margin-bottom: 0;
+    color: #adadad;
+    font-size: 0.75em;
+    font-weight: 300;
+}
+
+.race-table-win-money,
+.race-table-other-money {
+    text-align: right;
+}
+
+.race-table-win-money{
+    font-weight: bold;
+}
+
+.race-table-other-money {
+    color: rgb(122, 122, 122);
+}
+
+.race-tiny-sub-heading,
+.race-text {
+    font-size: 0.8em;
+    margin-bottom: 0;
+}
+
+.race-tiny-sub-heading {
+    margin-top: 10px;
+}
+
+.race-winning-connection-header{
+    width: 50px;
+    display: inline-block;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.wagers-table {
+    margin-top: 30px;
+}
+
+.wagers-table th {
+    border-top: 0;
+    border-bottom: 0 !important;
+}
+
+.wagers-table-head-normal,
+.wagers-table-head-other,
+.wagers-table-head-money {
+    color:  #adadad;
+    font-weight: 300;
+    font-size: 0.8em;
+}
+
+.wagers-table-head tr th{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-transform: uppercase;
+}
+
+.wagers-table-head-money {
+    text-align: right;
+}
+
+.wagers-table-text,
+.wagers-table-money{
+    font-size: 0.85em;
+}
+
+.wagers-table-body tr td{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.wagers-table-money{
+    text-align: right;
+    padding-right: 0 !important;
+}
+
+@media only screen and (max-width: 991px) {
+    .race-details-headers {
+        text-align: left;
+        margin-top: 10px;
+        padding-left: 15px;
+        float: left;
+        width: 30%;
+    }
+    .race-details-headers-data {
+        margin-top: 8px;
+        padding-left: 15px;
+        float: left;
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .race-table-horse-name {
+        margin-bottom: 0;
+        font-size: 1em;
+    }
+    .race-table-win-money,
+    .race-table-other-money {
+        font-size: 0.85em;
+    }
+}
