@@ -7,6 +7,12 @@
     font-weight: 400;
 }
 
+.race-sub-heading-small {
+    color:  rgb(0, 0, 0);
+    font-size: 0.80em;
+    text-transform: uppercase;
+}
+
 .race-details-headers ul,
 .race-details-headers-data ul{
     margin: 0;
@@ -23,6 +29,13 @@
     text-align: left;
 }
 
+.race-details-headers-data-btn {
+    background: none;
+    border: none;
+    padding: 0px 5px 0px 0px;
+    color: #5bc0de
+}
+
 .race-details-headers,
 .race-details-headers-data{
     padding-left: 5px;
@@ -36,7 +49,8 @@
 
 .race-details-headers,
 .race-tiny-sub-heading,
-.race-winning-connection-header {
+.race-winning-connection-header,
+.race-table-finishers {
     color: #d3d3d3;
 }
 
@@ -74,14 +88,14 @@
 }
 
 .race-table-personnel {
-    padding-bottom: 0px;
+    padding-bottom: 0px !important;
 }
 
 .race-table-horse-name {
     /* margin-top: -5px !important; */
     margin-bottom: 0;
     color: #2bca7b;
-    font-size: 1.25em;
+    font-size: 1.1em;
     font-weight: 300;
 }
 
@@ -92,18 +106,33 @@
     font-weight: 300;
 }
 
-.race-table-win-money,
-.race-table-other-money {
+.race-table-win-primary,
+.race-table-win-text {
     text-align: right;
     padding-right: 0 !important;
-}
-
-.race-table-win-money{
     font-weight: bold;
+    font-size: 0.9em;
 }
 
-.race-table-other-money {
+.race-table-win-primary{
     color: rgb(122, 122, 122);
+}
+
+.race-table-win-text {
+    color: rgb(122, 122, 122);
+}
+
+.race-table-runner-ups{
+    text-align: right;
+    padding-right: 0 !important;
+    color: rgb(0, 0, 0);
+    font-size: 0.9em;
+}
+
+.race-table-finishers{
+    text-align: right;
+    padding-right: 0 !important;
+    font-size: 0.9em;
 }
 
 .race-tiny-sub-heading,
@@ -173,6 +202,13 @@
 
 .saddle {
     padding: 10px;
+    text-align: right;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.saddle-tiny {
+    padding: 0px 5px;
     text-align: right;
     border-radius: 3px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
@@ -259,6 +295,15 @@
     color: red;
 }
 
+.icon-winner {
+    color: gold;
+    font-size: 0.8em;
+}
+
+.icon-win-lengths {
+    color: gold;
+}
+
 @media only screen and (max-width: 991px) {
     .race-details-headers {
         text-align: left;
@@ -275,13 +320,17 @@
     }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 860px) {
+    .race-table-saddle-number {
+        width: 30px !important;
+    }
     .race-table-horse-name {
         margin-bottom: 0;
         font-size: 1em;
     }
-    .race-table-win-money,
-    .race-table-other-money {
-        font-size: 0.85em;
+    .race-table-win-primary,
+    .race-table-win-text,
+    .race-table-runner-ups{
+        font-size: 0.75em;
     }
 }
