@@ -1,336 +1,363 @@
 .race-heading {
-    font-size: 3em;
+  font-size: 3em;
 }
 
 .race-sub-heading {
-    color:  #a1a1a1;
-    font-weight: 400;
+  color: #adadad;
+  font-weight: 400;
 }
 
 .race-sub-heading-small {
-    color:  rgb(0, 0, 0);
-    font-size: 0.80em;
-    text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  font-size: 0.8em;
+  text-transform: uppercase;
 }
 
 .race-details-headers ul,
-.race-details-headers-data ul{
-    margin: 0;
-    padding: 0;
-    font-size: 0.80em;
-    list-style: none;
+.race-details-headers-data ul {
+  margin: 0;
+  padding: 0;
+  font-size: 0.8em;
+  list-style: none;
 }
 
 .race-details-headers {
-    text-align: right;
+  text-align: right;
 }
 
-.race-details-headers-data{
-    text-align: left;
+.race-details-headers-data {
+  text-align: left;
 }
 
 .race-details-headers-data-btn {
-    background: none;
-    border: none;
-    padding: 0px 5px 0px 0px;
-    color: #5bc0de
+  background: none;
+  border: none;
+  padding: 0px 5px 0px 0px;
+  color: #5bc0de;
 }
 
 .race-details-headers,
-.race-details-headers-data{
-    padding-left: 5px;
-    padding-right: 5px;
+.race-details-headers-data {
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .race-details-headers ul li,
-.race-details-headers-data ul li{
-    padding: 1px 0;
+.race-details-headers-data ul li {
+  padding: 1px 0;
 }
 
 .race-details-headers,
 .race-tiny-sub-heading,
 .race-winning-connection-header,
-.race-table-finishers {
-    color: #d3d3d3;
+.race-table-number-finishers {
+  color: #adadad;
 }
 
-.race-table {}
-
-.race-table-body td {
-    padding-bottom: 0;
-    padding-left: 0;
+.race-table {
 }
 
+.race-table-body td,
+.workouts-table-body td {
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+.workouts-table-body {
+  font-size: 0.9em;
+}
 
 .race-table-head th {
-    border-top: 0;
-    border-bottom: 0 !important;
+  border-top: 0;
+  border-bottom: 0 !important;
 }
 
 .race-table-head-normal {
-    color:  #a1a1a1;
-    font-weight: 500;
-    font-size: 1em;
-    padding-left: 0 !important;
+  color: #a1a1a1;
+  font-weight: 500;
+  font-size: 1em;
+  padding-left: 0 !important;
 }
 
-.race-table-head-small{
-    text-align: right;
-    color:  #adadad;
-    font-weight: 300;
-    font-size: 0.8em;
-    text-transform: uppercase;
-    padding-right: 0 !important;
+.race-table-head-small-text-light,
+.race-table-head-small-numbers-light {
+  font-weight: 300;
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
+
+.race-table-head-small-text-light {
+  color: #adadad;
+  text-align: left;
+  padding-left: 0 !important;
+}
+
+.race-table-head-small-text-dark {
+  color: #000000;
+  text-align: left;
+  padding-left: 0 !important;
+  text-transform: uppercase;
+}
+
+.race-table-head-small-numbers-light {
+  color: #adadad;
+  text-align: right;
+  padding-right: 0 !important;
+}
+
+.race-table-head-small-numbers-dark {
+  color: #000000;
+  text-align: right;
+  padding-right: 0 !important;
 }
 
 .race-table-saddle-number {
-    width: 80px;
+  width: 80px;
 }
 
 .race-table-personnel {
-    padding-bottom: 0px !important;
+  padding-bottom: 0px !important;
 }
 
 .race-table-horse-name {
-    /* margin-top: -5px !important; */
-    margin-bottom: 0;
-    color: #2bca7b;
-    font-size: 1.1em;
-    font-weight: 300;
+  /* margin-top: -5px !important; */
+  margin-bottom: 0;
+  color: #2bca7b;
+  font-size: 1.1em;
+  font-weight: 300;
 }
 
 .race-table-jockey-name {
-    margin-bottom: 0;
-    color: #adadad;
-    font-size: 0.75em;
-    font-weight: 300;
+  margin-bottom: 0;
+  color: #adadad;
+  font-size: 0.75em;
+  font-weight: 300;
 }
 
-.race-table-win-primary,
-.race-table-win-text {
-    text-align: right;
-    padding-right: 0 !important;
-    font-weight: bold;
-    font-size: 0.9em;
+.race-table-win-number-primary,
+.race-table-win-number {
+  text-align: right;
+  padding-right: 0 !important;
+  font-weight: bold;
+  font-size: 0.9em;
 }
 
-.race-table-win-primary{
-    color: rgb(122, 122, 122);
+.race-table-win-number-primary {
+  color: rgb(122, 122, 122);
 }
 
-.race-table-win-text {
-    color: rgb(122, 122, 122);
+.race-table-win-number {
+  color: rgb(122, 122, 122);
 }
 
-.race-table-runner-ups{
-    text-align: right;
-    padding-right: 0 !important;
-    color: rgb(0, 0, 0);
-    font-size: 0.9em;
+.race-table-number-runner-ups {
+  text-align: right;
+  padding-right: 0 !important;
+  color: rgb(0, 0, 0);
+  font-size: 0.9em;
 }
 
-.race-table-finishers{
-    text-align: right;
-    padding-right: 0 !important;
-    font-size: 0.9em;
+.race-table-number-finishers {
+  text-align: right;
+  padding-right: 0 !important;
+  font-size: 0.9em;
 }
 
 .race-tiny-sub-heading,
 .race-text {
-    font-size: 0.8em;
-    margin-bottom: 0;
+  font-size: 0.8em;
+  margin-bottom: 0;
 }
 
 .race-tiny-sub-heading {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
-.race-winning-connection-header{
-    width: 50px;
-    display: inline-block;
-    text-align: right;
-    margin-right: 10px;
+.race-winning-connection-header {
+  width: 50px;
+  display: inline-block;
+  text-align: right;
+  margin-right: 10px;
 }
 
 .wagers-table {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .wagers-table th {
-    border-top: 0;
-    border-bottom: 0 !important;
+  border-top: 0;
+  border-bottom: 0 !important;
 }
 
 .wagers-table-head-normal,
 .wagers-table-head-other,
 .wagers-table-head-money {
-    color:  #adadad;
-    font-weight: 300;
-    font-size: 0.8em;
+  color: #adadad;
+  font-weight: 300;
+  font-size: 0.8em;
 }
 
-.wagers-table-head tr th{
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-    text-transform: uppercase;
+.wagers-table-head tr th {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  text-transform: uppercase;
 }
 
 .wagers-table-head-money {
-    text-align: right;
+  text-align: right;
 }
 
 .wagers-table-text,
-.wagers-table-money{
-    font-size: 0.85em;
+.wagers-table-money {
+  font-size: 0.85em;
 }
 
-.wagers-table-body tr td{
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+.wagers-table-body tr td {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
-.wagers-table-money{
-    text-align: right;
-    padding-right: 0 !important;
+.wagers-table-money {
+  text-align: right;
+  padding-right: 0 !important;
 }
 
 /** saddle Colors **/
 .race-table-saddle-number {
-    width: 80px;
-    
+  width: 80px;
 }
 
 .saddle {
-    padding: 10px;
-    text-align: right;
-    border-radius: 3px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  padding: 10px;
+  text-align: right;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
 .saddle-tiny {
-    padding: 0px 5px;
-    text-align: right;
-    border-radius: 3px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  padding: 0px 5px;
+  text-align: right;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
 .saddle-color-1 {
-    background: red;
-    color: white;
-   
+  background: red;
+  color: white;
 }
 
 .saddle-color-2 {
-    background: white;
-    color: black;
+  background: white;
+  color: black;
 }
 
 .saddle-color-3 {
-    background: blue;
-    color: white;
+  background: blue;
+  color: white;
 }
 
 .saddle-color-4 {
-    background: gold;
-    color: black;
+  background: gold;
+  color: black;
 }
 
 .saddle-color-5 {
-    background: green;
-    color: white;
+  background: green;
+  color: white;
 }
 
 .saddle-color-6 {
-    background: black;
-    color: gold;
+  background: black;
+  color: gold;
 }
 
 .saddle-color-7 {
-    background: orange;
-    color: black;
+  background: orange;
+  color: black;
 }
 
 .saddle-color-8 {
-    background: pink;
-    color: black;
+  background: pink;
+  color: black;
 }
 
 .saddle-color-9 {
-    background: turquoise;
-    color: black;
+  background: turquoise;
+  color: black;
 }
 
 .saddle-color-10 {
-    background: purple;
-    color: white;
+  background: purple;
+  color: white;
 }
 
 .saddle-color-11 {
-    background: lightgray;
-    color: red;
+  background: lightgray;
+  color: red;
 }
 
 .saddle-color-12 {
-    background: lime;
-    color: black;
+  background: lime;
+  color: black;
 }
 
 .saddle-color-13 {
-    background: brown;
-    color: white;
+  background: brown;
+  color: white;
 }
 
 .saddle-color-14 {
-    background: maroon;
-    color: yellow;
+  background: maroon;
+  color: yellow;
 }
 
 .saddle-color-15 {
-    background: khaki;
-    color: black;
+  background: khaki;
+  color: black;
 }
 
 .saddle-color-16 {
-    background: lightblue;
-    color: red;
+  background: lightblue;
+  color: red;
 }
 
 .icon-winner {
-    color: gold;
-    font-size: 0.8em;
+  color: gold;
+  font-size: 0.8em;
 }
 
 .icon-win-lengths {
-    color: gold;
+  color: gold;
 }
 
 @media only screen and (max-width: 991px) {
-    .race-details-headers {
-        text-align: left;
-        margin-top: 10px;
-        padding-left: 15px;
-        float: left;
-        width: 30%;
-    }
-    .race-details-headers-data {
-        margin-top: 8px;
-        padding-left: 15px;
-        float: left;
-        width: 50%;
-    }
+  .race-details-headers {
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 15px;
+    float: left;
+    width: 32%;
+  }
+  .race-details-headers-data {
+    margin-top: 8px;
+    padding-left: 15px;
+    float: left;
+    width: 50%;
+  }
 }
 
 @media only screen and (max-width: 860px) {
-    .race-table-saddle-number {
-        width: 30px !important;
-    }
-    .race-table-horse-name {
-        margin-bottom: 0;
-        font-size: 1em;
-    }
-    .race-table-win-primary,
-    .race-table-win-text,
-    .race-table-runner-ups{
-        font-size: 0.75em;
-    }
+  .race-table-saddle-number {
+    width: 25px !important;
+  }
+  .race-table-horse-name {
+    margin-bottom: 0;
+    font-size: 1em;
+  }
+  .race-table-win-number-primary,
+  .race-table-win-text,
+  .race-table-win-number,
+  .race-table-number-runner-ups {
+    font-size: 0.75em;
+  }
 }
