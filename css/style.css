@@ -1,3 +1,6 @@
+/**---------------------------------------*/
+/**--------- RACING INFORMATION ----------*/
+/**---------------------------------------*/
 .race-heading {
   font-size: 3em;
 }
@@ -11,6 +14,11 @@
   color: rgb(0, 0, 0);
   font-size: 0.8em;
   text-transform: uppercase;
+}
+
+.scratch-time-heading {
+  text-transform: uppercase;
+  color: red;
 }
 
 .race-details-headers ul,
@@ -58,7 +66,8 @@
 }
 
 .race-table-body td,
-.workouts-table-body td {
+.workouts-table-body td, 
+.overnights-table-body td {
   padding-bottom: 0;
   padding-left: 0;
 }
@@ -221,8 +230,47 @@
   text-align: right;
   padding-right: 0 !important;
 }
+/** Overnights **/
+.overngiht-table-headers h5{
+  font-size: 1em;
+}
 
-/** saddle Colors **/
+.overngiht-horse-header{
+  color: #adadad;
+  font-size: 0.8em;
+}
+
+.overnight-table-body {
+  font-size: 0.8em;
+}
+
+.overnight-numbers {
+  text-align: right;
+}
+
+.sponsor-title.overnight {
+  font-size: 0.8em;
+  color:#5BC0DE;
+}
+
+/** Table Message Warning Colors **/
+.table-warning-message,
+.table-info-message{
+  font-size: 0.8em;
+  font-weight: bold;
+  margin: 0;
+  text-align: right;
+}
+
+.table-warning-message {
+  color: red;
+}
+
+.table-info-message {
+  color: blue;
+}
+
+/** Saddle Colors **/
 .race-table-saddle-number {
   width: 80px;
 }
@@ -329,6 +377,10 @@
 .icon-win-lengths {
   color: gold;
 }
+
+/**---------------------------------------*/
+/**------------ MEDIA QUERIES ------------*/
+/**---------------------------------------*/
 
 @media only screen and (max-width: 991px) {
   .race-details-headers {
