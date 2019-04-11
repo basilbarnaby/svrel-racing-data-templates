@@ -21,6 +21,10 @@
   color: red;
 }
 
+.event-header {
+  color: #26b47c;
+}
+
 .race-details-headers ul,
 .race-details-headers-data ul {
   margin: 0;
@@ -66,7 +70,7 @@
 }
 
 .race-table-body td,
-.workouts-table-body td, 
+.workouts-table-body td,
 .overnights-table-body td {
   padding-bottom: 0;
   padding-left: 0;
@@ -189,6 +193,7 @@
   margin-right: 10px;
 }
 
+/** Wagers **/
 .wagers-table {
   margin-top: 30px;
 }
@@ -230,32 +235,64 @@
   text-align: right;
   padding-right: 0 !important;
 }
-/** Overnights **/
-.overngiht-table-headers h5{
+
+/** Overnight Programme **/
+.programme-table-headers h5 {
   font-size: 1em;
 }
 
-.overngiht-horse-header{
+.programme-race-condition.overnight,
+.programme-race-condition.final {
   color: #adadad;
   font-size: 0.8em;
 }
 
-.overnight-table-body {
+.programme-table-body {
   font-size: 0.8em;
 }
 
-.overnight-numbers {
+.programme-numbers {
   text-align: right;
 }
 
-.sponsor-title.overnight {
+/** Final Programme **/
+.final > .programme-table-body td {
+  border: none;
+}
+
+.final > .programme-table-body td,
+.overnight > .programme-table-body td {
+  padding: 0;
+}
+
+.bet-set-1,
+.bet-set-2 {
+  font-weight: bold;
+}
+
+.info-title.final,
+.info-title.overnight {
   font-size: 0.8em;
-  color:#5BC0DE;
+  color: #5bc0de;
+}
+
+/* .info-title.final {
+  font-weight: bold;
+} */
+
+.normal-title.final {
+  font-size: 0.8em;
+  color: inherit;
+}
+
+.race-table-head.final,
+.race-table-head.workouts {
+  font-size: 0.8em;
 }
 
 /** Table Message Warning Colors **/
 .table-warning-message,
-.table-info-message{
+.table-info-message {
   font-size: 0.8em;
   font-weight: bold;
   margin: 0;
@@ -411,5 +448,24 @@
   .race-table-win-number,
   .race-table-number-runner-ups {
     font-size: 0.75em;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .th-mobile,
+  .td-mobile {
+    display: none;
+  }
+
+  .race-heading.overnight {
+    font-size: 2em;
+  }
+
+  .race-heading.final {
+    font-size: 2em;
+  }
+
+  .programme-table-headers.final > h5 {
+    font-size: 0.8em;
   }
 }
