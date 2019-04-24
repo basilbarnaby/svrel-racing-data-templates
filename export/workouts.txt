@@ -1,0 +1,111 @@
+<!-- Workout Identifier -->
+<div class="row mt-4">
+    <!-- Workout Title -->
+    <div class="col-sm-6">
+    <h6 class="race-sub-heading-small">
+        An (*) asterisk at the beginning of an exercise gallop indicates the
+        fastest time at that particular distance on that particular morning.
+    </h6>
+    <h6 class="race-sub-heading-small">
+        Horses are listed in alphabetical order.
+    </h6>
+    </div>
+    <!-- End of Workout Title -->
+
+    <!-- Workout Details -->
+    <div class="col-lg-6">
+    <div class="row">
+        <!-- Workout Details Headers -->
+        <div class="col-sm-6 race-details-headers">
+        <ul>
+            <li>Track Condition:</li>
+        </ul>
+        </div>
+        <!-- End of Workout Details Headers -->
+
+        <!-- Workout Details Headers Data -->
+        <div class="col-sm-6 race-details-headers-data">
+        <ul>
+            <li>Good</li>
+        </ul>
+        </div>
+        <!-- End of Workout Details Headers-->
+    </div>
+    </div>
+    <!-- End of Workout Details -->
+</div>
+<!-- End of Workout Identifier -->
+
+<!-- Workout Body -->
+<div class="row">
+    <!-- Workouts Table -->
+    <div class="col-sm-12">
+    <table
+        class="table race-table table-striped table-sm workouts"
+        id="workouts"
+    >
+        <thead class="race-table-head workouts">
+        <tr>
+            <th class="race-table-head-small-text-dark">#</th>
+            <th class="race-table-head-small-text-dark">Horse</th>
+            <th class="race-table-head-small-text-dark">Action</th>
+        </tr>
+        </thead>
+        <tbody class="workouts-table-body ">
+        <tr>
+            <td class="table-number">1</td>
+            <td>A Seh Soup</td>
+            <td>Cant 9f</td>
+        </tr>
+        <tr>
+            <td class="table-number">2</td>
+            <td>Bad Boy Trump</td>
+            <td>Cant 9f</td>
+        </tr>
+        <tr>
+            <td class="table-number">3</td>
+            <td>Candlelight</td>
+            <td>Cant 9f</td>
+        </tr>
+        <tr>
+            <td class="table-number">4</td>
+            <td>Dash Board</td>
+            <td>Trotted/Hack</td>
+        </tr>
+        <tr>
+            <td class="table-number">5</td>
+            <td>Enedina</td>
+            <td>Cant 8f Strode 5f 1080</td>
+        </tr>
+        </tbody>
+    </table>
+    </div>
+    <!-- End of Workouts Table -->
+
+    <!-- Workouts Untried Table -->
+    <div class="col-sm-12 mt-4">
+    <hr />
+    <h6>Exercise Report on Untried (s)</h6>
+    <table
+        class="table race-table table-striped table-sm workouts"
+        id="untried"
+    >
+        <thead class="race-table-head workouts">
+        <tr>
+            <th class="race-table-head-small-text-dark">#</th>
+            <th class="race-table-head-small-text-dark">Horse</th>
+            <th class="race-table-head-small-text-dark">Action</th>
+        </tr>
+        </thead>
+        <tbody class="workouts-table-body">
+        <tr>
+            <td class="table-number">1</td>
+            <td>Lynch (P) Usa Bay</td>
+            <td>Cant 9f Strode 6f 1244</td>
+        </tr>
+        </tbody>
+    </table>
+    </div>
+    <!-- End of Workouts Untried Table -->
+</div>
+<!-- End of Workout Body -->

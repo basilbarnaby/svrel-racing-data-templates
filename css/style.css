@@ -71,7 +71,7 @@
 
 .race-table-body td,
 .workouts-table-body td,
-.overnights-table-body td {
+.entries-table-body td {
   padding-bottom: 0;
   padding-left: 0;
 }
@@ -163,11 +163,16 @@
   color: rgb(122, 122, 122);
 }
 
-.race-table-number-runner-ups {
+.race-table-number-runner-ups,
+.race-table-number-runner-ups-highlight {
   text-align: right;
   padding-right: 0 !important;
   color: rgb(0, 0, 0);
   font-size: 0.9em;
+}
+
+.race-table-number-runner-ups-highlight{
+  font-weight: bold;
 }
 
 .race-table-number-finishers {
@@ -241,8 +246,8 @@
   font-size: 1em;
 }
 
-.programme-race-condition.overnight,
-.programme-race-condition.final {
+.programme-race-condition.entry,
+.programme-race-condition.racecard {
   color: #adadad;
   font-size: 0.8em;
 }
@@ -256,12 +261,12 @@
 }
 
 /** Final Programme **/
-.final > .programme-table-body td {
+.racecard > .programme-table-body td {
   border: none;
 }
 
-.final > .programme-table-body td,
-.overnight > .programme-table-body td {
+.racecard > .programme-table-body td,
+.entry > .programme-table-body td {
   padding: 0;
 }
 
@@ -270,22 +275,23 @@
   font-weight: bold;
 }
 
-.info-title.final,
-.info-title.overnight {
+.info-title.racecard,
+.info-title.entry {
   font-size: 0.8em;
   color: #5bc0de;
 }
 
-/* .info-title.final {
+/* .info-title.racecard {
   font-weight: bold;
 } */
 
-.normal-title.final {
+.normal-title.racecard {
   font-size: 0.8em;
   color: inherit;
 }
 
-.race-table-head.final,
+.race-table-head.entry,
+.race-table-head.racecard,
 .race-table-head.workouts {
   font-size: 0.8em;
 }
@@ -406,13 +412,23 @@
   color: red;
 }
 
-.icon-winner {
+.icon-gold {
   color: gold;
   font-size: 0.8em;
 }
 
 .icon-win-lengths {
   color: gold;
+}
+
+.icon-silver {
+  color: silver;
+  font-size: 0.8em;
+}
+
+.icon-bronze {
+  color: #cd7f32;
+  font-size: 0.8em;
 }
 
 /**---------------------------------------*/
@@ -446,26 +462,38 @@
   .race-table-win-number-primary,
   .race-table-win-text,
   .race-table-win-number,
-  .race-table-number-runner-ups {
+  .race-table-number-runner-ups,
+  .race-table-number-runner-ups-highlights {
     font-size: 0.75em;
   }
 }
 
 @media only screen and (max-width: 480px) {
+  .race-table-head-normal {
+    font-size: 0.85em;
+  }
+  .race-table-personnel {
+    padding-right: 0px !important;
+    padding-bottom: 5px !important;
+  }
+  .race-table-horse-name {
+    margin-bottom: 0;
+    font-size: 0.8em;
+}
   .th-mobile,
   .td-mobile {
     display: none;
   }
 
-  .race-heading.overnight {
+  .race-heading.entry {
     font-size: 2em;
   }
 
-  .race-heading.final {
+  .race-heading.racecard {
     font-size: 2em;
   }
 
-  .programme-table-headers.final > h5 {
+  .programme-table-headers.racecard > h5 {
     font-size: 0.8em;
   }
 }
