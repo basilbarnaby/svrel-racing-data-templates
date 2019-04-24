@@ -1,3 +1,5 @@
+<!-- Race Results -->
+
 <!-- Race Identifier -->
 <div class="row mt-4">
 <!-- Race Title -->
@@ -262,3 +264,5 @@
 <!-- End of Wager's Table -->
 </div>
 <!-- End of Race Body -->
+
+<!-- End of Race Results -->

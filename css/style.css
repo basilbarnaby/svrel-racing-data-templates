@@ -171,7 +171,7 @@
   font-size: 0.9em;
 }
 
-.race-table-number-runner-ups-highlight{
+.race-table-number-runner-ups-highlight {
   font-weight: bold;
 }
 
@@ -431,6 +431,26 @@
   font-size: 0.8em;
 }
 
+.award-gold {
+  color: gold;
+}
+
+.award-silver {
+  color: silver;
+}
+.award-bronze {
+  color: #cd7f32;
+}
+
+/** STATISTICS **/
+.statistics-table {
+  font-size: 0.8em;
+}
+.statistics-number-header,
+.statistics-number {
+  text-align: right;
+}
+
 /**---------------------------------------*/
 /**------------ MEDIA QUERIES ------------*/
 /**---------------------------------------*/
@@ -479,7 +499,7 @@
   .race-table-horse-name {
     margin-bottom: 0;
     font-size: 0.8em;
-}
+  }
   .th-mobile,
   .td-mobile {
     display: none;

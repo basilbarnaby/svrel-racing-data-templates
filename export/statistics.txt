@@ -1,0 +1,761 @@
+<!-- Statistics Body -->
+
+<!-- Stats Horses Table -->
+<div class="row horse-row mb-4">
+  <div class="col-sm-12">
+    <h3 class="statistics-table-title">Leading Horses</h3>
+    <p class="statistics-table-subtitle">
+      24 Racedays - 248 Races Up to 14/04/2019 inclusive
+    </p>
+    <table class="table table-striped table-sm statistics-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="statistics-category-header horse">Horses</th>
+          <th class="statistics-number-header th-mobile">Age</th>
+          <th class="statistics-number-header">1<sup>st</sup></th>
+          <th class="statistics-number-header">2<sup>nd</sup></th>
+          <th class="statistics-number-header">3<sup>rd</sup></th>
+          <th class="statistics-number-header th-mobile">4<sup>th</sup></th>
+          <th class="statistics-number-header th-mobile">Unpl</th>
+          <th class="statistics-number-header">Starts</th>
+          <th class="statistics-number-header">Stakes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="statistics-position">1</td>
+          <td class="statistics-category horse">
+            Supreme Soul
+            <span class="award-gold ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number td-mobile">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">2</td>
+          <td class="statistics-category horse">
+            I Am Di One
+            <span class="award-silver ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number td-mobile">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">3</td>
+          <td class="statistics-category horse">
+            Drummer Boy
+            <span class="award-bronze ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number td-mobile">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">4</td>
+          <td class="statistics-category horse">Tuna Ciliata</td>
+          <td class="statistics-number td-mobile">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">5</td>
+          <td class="statistics-category horse">Sentient</td>
+          <td class="statistics-number td-mobile">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number td-mobile">0</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- End of Stats Horses Table -->
+
+<!-- Stats Jockeys Table -->
+<div class="row jokcey-row mb-4">
+  <div class="col-sm-12">
+    <h3 class="statistics-table-title">Leading Jokceys</h3>
+    <p class="statistics-table-subtitle">
+      24 Racedays - 248 Races up to 14/04/2019 inclusive
+    </p>
+    <table class="table table-striped table-sm statistics-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="statistics-category-header jockey">Name</th>
+          <th class="statistics-number-header">1<sup>st</sup></th>
+          <th class="statistics-number-header">2<sup>nd</sup></th>
+          <th class="statistics-number-header">3<sup>rd</sup></th>
+          <th class="statistics-number-header">Mounts</th>
+          <th class="statistics-number-header">Stakes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="statistics-position">1</td>
+          <td class="statistics-category jockey">
+            Mamdeen, Christopher R
+            <span class="award-gold ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">2</td>
+          <td class="statistics-category jockey">
+            Walker, Omar D
+            <span class="award-silver ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">3</td>
+          <td class="statistics-category jockey">
+            Lewis, Reyan
+            <span class="award-bronze ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">4</td>
+          <td class="statistics-category jockey">Haldeen, Robert A</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">5</td>
+          <td class="statistics-category jockey">Nelson, Dane D</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- End of Stats Jockeys Table -->
+
+<!-- Stats Trainers Table -->
+<div class="row trainer-row mb-4">
+  <div class="col-sm-12">
+    <h3 class="statistics-table-title">Leading Trainers</h3>
+    <p class="statistics-table-subtitle">
+      24 Racedays - 248 Races up to 14/04/2019 inclusive
+    </p>
+    <table class="table table-striped table-sm statistics-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="statistics-category-header trainer">Name</th>
+          <th class="statistics-number-header">1<sup>st</sup></th>
+          <th class="statistics-number-header">2<sup>nd</sup></th>
+          <th class="statistics-number-header">3<sup>rd</sup></th>
+          <th class="statistics-number-header">Starts</th>
+          <th class="statistics-number-header">Stakes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="statistics-position">1</td>
+          <td class="statistics-category trainer">
+            Nunes, Anthony C
+            <span class="award-gold ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">2</td>
+          <td class="statistics-category jockey">
+            Subratie, Gary A
+            <span class="award-silver ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">3</td>
+          <td class="statistics-category jockey">
+            Dacosta, Wayne A
+            <span class="award-bronze ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">4</td>
+          <td class="statistics-category jockey">
+            Todd, Steven M
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">5</td>
+          <td class="statistics-category jockey">
+            Lynch, Patrick T
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- End of Stats Trainers Table -->
+
+<!-- Stats Owners Table -->
+<div class="row owner-row mb-4">
+  <div class="col-sm-12">
+    <h3 class="statistics-table-title">Leading Owners</h3>
+    <p class="statistics-table-subtitle">
+      24 Racedays - 248 Races up to 14/04/2019 inclusive
+    </p>
+    <table class="table table-striped table-sm statistics-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="statistics-category-header owner">Name</th>
+          <th class="statistics-number-header">Winning Horses</th>
+          <th class="statistics-number-header">Races Won</th>
+          <th class="statistics-number-header">Starts</th>
+          <th class="statistics-number-header">Stakes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="statistics-position">1</td>
+          <td class="statistics-category owner">
+            Nunes, Anthony C
+            <span class="award-gold ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">2</td>
+          <td class="statistics-category jockey">
+            Subratie, Gary A
+            <span class="award-silver ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">3</td>
+          <td class="statistics-category jockey">
+            Dacosta, Wayne A
+            <span class="award-bronze ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">4</td>
+          <td class="statistics-category jockey">
+            Todd, Steven M
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">5</td>
+          <td class="statistics-category jockey">
+            Lynch, Patrick T
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- End of Stats Owners Table -->
+
+<!-- Stats Breeders Table -->
+<div class="row breeder-row mb-4">
+  <div class="col-sm-12">
+    <h3 class="statistics-table-title">Leading Breeders</h3>
+    <p class="statistics-table-subtitle">
+      24 Racedays - 248 Races up to 14/04/2019 inclusive
+    </p>
+    <table class="table table-striped table-sm statistics-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="statistics-category-header breeder">Name</th>
+          <th class="statistics-number-header">Winning Horses</th>
+          <th class="statistics-number-header">Races Won</th>
+          <th class="statistics-number-header">Starts</th>
+          <th class="statistics-number-header">Stakes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="statistics-position">1</td>
+          <td class="statistics-category breeder">
+            Nunes, Anthony C
+            <span class="award-gold ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">2</td>
+          <td class="statistics-category jockey">
+            Subratie, Gary A
+            <span class="award-silver ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">3</td>
+          <td class="statistics-category jockey">
+            Dacosta, Wayne A
+            <span class="award-bronze ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">4</td>
+          <td class="statistics-category jockey">
+            Todd, Steven M
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">5</td>
+          <td class="statistics-category jockey">
+            Lynch, Patrick T
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- End of Stats Breeders Table -->
+
+<!-- Stats Grooms Table -->
+<div class="row groom-row mb-4">
+  <div class="col-sm-12">
+    <h3 class="statistics-table-title">Leading Grooms</h3>
+    <p class="statistics-table-subtitle">
+      Up to 14/04/2019 inclusive
+    </p>
+    <table class="table table-striped table-sm statistics-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="statistics-category-header groom">Name</th>
+          <th class="statistics-number-header">1<sup>st</sup></th>
+          <th class="statistics-number-header">2<sup>nd</sup></th>
+          <th class="statistics-number-header">3<sup>rd</sup></th>
+          <th class="statistics-number-header">Starts</th>
+          <th class="statistics-number-header">Stakes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="statistics-position">1</td>
+          <td class="statistics-category groom">
+            Nunes, Anthony C
+            <span class="award-gold ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">2</td>
+          <td class="statistics-category jockey">
+            Subratie, Gary A
+            <span class="award-silver ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">3</td>
+          <td class="statistics-category jockey">
+            Dacosta, Wayne A
+            <span class="award-bronze ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">4</td>
+          <td class="statistics-category jockey">
+            Todd, Steven M
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">5</td>
+          <td class="statistics-category jockey">
+            Lynch, Patrick T
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- End of Stats Grooms Table -->
+
+<!-- Stats Sires Table -->
+<div class="row sire-row mb-4">
+  <div class="col-sm-12">
+    <h3 class="statistics-table-title">Leading Sires by Progeny</h3>
+    <p class="statistics-table-subtitle">
+      12 Racedays - 121 Races Up to 14/04/2019 inclusive
+    </p>
+    <table class="table table-striped table-sm statistics-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="statistics-category-header sire">Name</th>
+          <th class="statistics-number-header">Races Won</th>
+          <th class="statistics-number-header">Starts</th>
+          <th class="statistics-number-header">Stakes</th>
+          <th class="statistics-number-header">
+            NPTR
+            <span
+              class="text-info mb-0"
+              data-toggle="tooltip"
+              data-placement="top"
+              title="Number of Porgeny to Race"
+            >
+              <i class="far fa-question-circle"></i>
+            </span>
+          </th>
+          <th class="statistics-number-header">
+            ASP
+            <span
+              class="text-info mb-0"
+              data-toggle="tooltip"
+              data-placement="top"
+              title="Average Stakes per Progeny"
+            >
+              <i class="far fa-question-circle"></i>
+            </span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="statistics-position">1</td>
+          <td class="statistics-category sire">
+            Nunes, Anthony C
+            <span class="award-gold ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">2</td>
+          <td class="statistics-category jockey">
+            Subratie, Gary A
+            <span class="award-silver ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">3</td>
+          <td class="statistics-category jockey">
+            Dacosta, Wayne A
+            <span class="award-bronze ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">4</td>
+          <td class="statistics-category jockey">
+            Todd, Steven M
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">5</td>
+          <td class="statistics-category jockey">
+            Lynch, Patrick T
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- End of Stats Sires Table -->
+
+<!-- Stats Dams Table -->
+<div class="row dam-row mb-4">
+  <div class="col-sm-12">
+    <h3 class="statistics-table-title">Leading Dams by Progeny</h3>
+    <p class="statistics-table-subtitle">
+      24 Racedays - 248 Races Up to 23/02/2019 inclusive
+    </p>
+    <table class="table table-striped table-sm statistics-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="statistics-category-header dam">Name</th>
+          <th class="statistics-number-header">Races Won</th>
+          <th class="statistics-number-header">Starts</th>
+          <th class="statistics-number-header">Stakes</th>
+          <th class="statistics-number-header">
+            NPTR
+            <span
+              class="text-info mb-0"
+              data-toggle="tooltip"
+              data-placement="top"
+              title="Number of Porgeny to Race"
+            >
+              <i class="far fa-question-circle"></i>
+            </span>
+          </th>
+          <th class="statistics-number-header">
+            ASP
+            <span
+              class="text-info mb-0"
+              data-toggle="tooltip"
+              data-placement="top"
+              title="Average Stakes per Progeny"
+            >
+              <i class="far fa-question-circle"></i>
+            </span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="statistics-position">1</td>
+          <td class="statistics-category dam">
+            Nunes, Anthony C
+            <span class="award-gold ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">2</td>
+          <td class="statistics-category jockey">
+            Subratie, Gary A
+            <span class="award-silver ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">3</td>
+          <td class="statistics-category jockey">
+            Dacosta, Wayne A
+            <span class="award-bronze ml-3">
+              <i class="fas fa-award"></i>
+            </span>
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">4</td>
+          <td class="statistics-category jockey">
+            Todd, Steven M
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+        <tr>
+          <td class="statistics-position">5</td>
+          <td class="statistics-category jockey">
+            Lynch, Patrick T
+          </td>
+          <td class="statistics-number">3</td>
+          <td class="statistics-number">4</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">0</td>
+          <td class="statistics-number">$3,350,650</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- End of Stats Sire Table -->
+
+<!-- End of Statistics Body -->
