@@ -1,0 +1,53 @@
+<!-- SINGLE Tipster -->
+<div class="col-sm-6 col-lg-4 mb-5">
+  <div class="card tipster-card">
+    <div class="card-header tipster-header text-light text-center">
+      <h5 class="mb-0">THE FAN</h5>
+    </div>
+    <div class="card-body">
+      <table class="table table-sm tipster-table">
+        <tr>
+          <td class="tipster-pos">1</td>
+          <td class="tipster-horse">Danos La Paz</td>
+        </tr>
+        <tr>
+          <td class="tipster-pos">2</td>
+          <td class="tipster-horse">Zi Beast</td>
+        </tr>
+        <tr>
+          <td class="tipster-pos">3</td>
+          <td class="tipster-horse">My Mom Juss</td>
+        </tr>
+        <tr>
+          <td class="tipster-pos">4</td>
+          <td class="tipster-horse">Glitter River</td>
+        </tr>
+        <tr>
+          <td class="tipster-pos">5</td>
+          <td class="tipster-horse">Legality</td>
+        </tr>
+        <tr>
+          <td class="tipster-pos">6</td>
+          <td class="tipster-horse">Perfect Asset</td>
+        </tr>
+        <tr>
+          <td class="tipster-pos">7</td>
+          <td class="tipster-horse">Jamaican Citizen</td>
+        </tr>
+        <tr>
+          <td class="tipster-pos">8</td>
+          <td class="tipster-horse">Virtuoso</td>
+        </tr>
+        <tr>
+          <td class="tipster-pos">9</td>
+          <td class="tipster-horse">Cryptocurrency</td>
+        </tr>
+        <tr>
+          <td class="tipster-pos">10</td>
+          <td class="tipster-horse">Patriarch</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+<!-- End of SINGLE Tipster Card -->

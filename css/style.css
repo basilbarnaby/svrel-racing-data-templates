@@ -438,17 +438,102 @@
 .award-silver {
   color: silver;
 }
+
 .award-bronze {
   color: #cd7f32;
 }
 
-/** STATISTICS **/
-.statistics-table {
-  font-size: 0.8em;
+.medal-gold {
+  color: gold;
 }
+
+.medal-silver {
+  color: silver;
+}
+
+.medal-bronze {
+  color: #cd7f32;
+}
+
+/** STATISTICS **/
 .statistics-number-header,
 .statistics-number {
   text-align: right;
+}
+
+/** TIPSTERS **/
+.tipster-card {
+  border: none !important;
+  min-height: 280px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.tipster-card:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.13);
+}
+
+.tipster-header {
+  background: rgba(57, 172, 107, 1);
+  background: -moz-linear-gradient(
+    top,
+    rgba(57, 172, 107, 1) 0%,
+    rgba(57, 143, 94, 1) 100%
+  );
+  background: -webkit-gradient(
+    left top,
+    left bottom,
+    color-stop(0%, rgba(57, 172, 107, 1)),
+    color-stop(100%, rgba(57, 143, 94, 1))
+  );
+  background: -webkit-linear-gradient(
+    top,
+    rgba(57, 172, 107, 1) 0%,
+    rgba(57, 143, 94, 1) 100%
+  );
+  background: -o-linear-gradient(
+    top,
+    rgba(57, 172, 107, 1) 0%,
+    rgba(57, 143, 94, 1) 100%
+  );
+  background: -ms-linear-gradient(
+    top,
+    rgba(57, 172, 107, 1) 0%,
+    rgba(57, 143, 94, 1) 100%
+  );
+  background: linear-gradient(
+    to bottom,
+    rgba(57, 172, 107, 1) 0%,
+    rgba(57, 143, 94, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#39ac6b', endColorstr='#398f5e', GradientType=0 );
+}
+
+.tipsters-number-header,
+.tipsters-number {
+  text-align: right;
+}
+
+.tipster-winner-card {
+  border: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.tipster-winner-card:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.13);
+}
+
+.tipster-bimontly-winner,
+.tipster-champion,
+.tipster-most-wins {
+  text-align: center;
+  font-weight: bold;
+}
+
+.tipster-bimontly-winner,
+.tipster-champion {
+  color: green;
 }
 
 /**---------------------------------------*/
@@ -485,6 +570,10 @@
   .race-table-number-runner-ups,
   .race-table-number-runner-ups-highlights {
     font-size: 0.75em;
+  }
+
+  .statistics-table {
+    font-size: 0.8em;
   }
 }
 

@@ -1,0 +1,121 @@
+<!-- Tipsters Standings -->
+
+<!-- Tipsters Standings Table -->
+<div class="row tipster-row mb-4">
+  <div class="col-sm-12">
+    <table class="table table-striped table-sm tipsters-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="tipsters-category-header tipster">Tipster</th>
+          <th class="tipsters-number-header current">Wins</th>
+          <th class="tipsters-number-header current">Dividend</th>
+          <th class="tipsters-number-header year">Wins</th>
+          <th class="tipsters-number-header year">Dividend</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tipsters-position">1</td>
+          <td class="tipsters-category tipster">
+            The Fan
+            <span class="medal-gold ml-3">
+              <i class="fas fa-medal"></i>
+            </span>
+          </td>
+          <td class="tipsters-number">53</td>
+          <td class="tipsters-number">$1,990.12</td>
+          <td class="tipsters-number">114</td>
+          <td class="tipsters-number">$2,545.60</td>
+        </tr>
+        <tr>
+          <td class="tipsters-position">2</td>
+          <td class="tipsters-category tipster">
+            Irie FM
+            <span class="medal-silver ml-3">
+              <i class="fas fa-medal"></i>
+            </span>
+          </td>
+          <td class="tipsters-number">53</td>
+          <td class="tipsters-number">$1,990.12</td>
+          <td class="tipsters-number">114</td>
+          <td class="tipsters-number">$2,545.60</td>
+        </tr>
+        <tr>
+          <td class="tipsters-position">3</td>
+          <td class="tipsters-category tipster">
+            Track & Pools
+            <span class="medal-bronze ml-3">
+              <i class="fas fa-medal"></i>
+            </span>
+          </td>
+          <td class="tipsters-number">53</td>
+          <td class="tipsters-number">$1,990.12</td>
+          <td class="tipsters-number">114</td>
+          <td class="tipsters-number">$2,545.60</td>
+        </tr>
+        <tr>
+          <td class="tipsters-position">4</td>
+          <td class="tipsters-category tipster">
+            Star
+          </td>
+          <td class="tipsters-number">53</td>
+          <td class="tipsters-number">$1,990.12</td>
+          <td class="tipsters-number">114</td>
+          <td class="tipsters-number">$2,545.60</td>
+        </tr>
+        <tr>
+          <td class="tipsters-position">5</td>
+          <td class="tipsters-category tipster">
+            Daily Gleaner
+          </td>
+          <td class="tipsters-number">53</td>
+          <td class="tipsters-number">$1,990.12</td>
+          <td class="tipsters-number">114</td>
+          <td class="tipsters-number">$2,545.60</td>
+        </tr>
+        <tr>
+          <td class="tipsters-position">6</td>
+          <td class="tipsters-category tipster">
+            Power 106
+          </td>
+          <td class="tipsters-number">53</td>
+          <td class="tipsters-number">$1,990.12</td>
+          <td class="tipsters-number">114</td>
+          <td class="tipsters-number">$2,545.60</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- End of Tipsters Standings Table -->
+
+<!-- Tipsters Winner -->
+<div class="row tipster-winners-row">
+  <div class="col-lg-12">
+    <div class="card tipster-winner-card">
+      <div class="card-body">
+        <div class="row">
+          <div class="col-lg-12">
+            <p class="tipster-bimontly-winner">
+              First Bi-Monthly Winner:
+              <span class="text-svrel-brand-1">The Fan</span>
+            </p>
+          </div>
+          <div class="col-lg-12">
+            <p class="tipster-champion">
+              2018 CHAMPION TIPSTER:
+              <span class="text-svrel-brand-1"
+                >Mr. Francisco Mills (THE FAN)</span
+              >
+            </p>
+            <p class="tipster-most-wins">MOST WINS: 328 winners.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End of Tipsters Winner -->
+
+<!-- End of Tipsters Standing-->
