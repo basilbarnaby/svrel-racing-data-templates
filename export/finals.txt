@@ -115,7 +115,7 @@
       <div
         class="col-lg-12 d-flex justify-content-between programme-table-headers racecard align-items-center"
       >
-        <h2 class="text-uppercase race-heading racecard">Race 1</h2>
+        <h2 class="text-uppercase race-heading racecard" id="race-1">Race 1</h2>
         <h5>12:00pm</h5>
         <h5>1100M</h5>
         <h5>Purse: $660,000</h5>
@@ -275,7 +275,7 @@
       <div
         class="col-lg-12 d-flex justify-content-between programme-table-headers racecard align-items-center"
       >
-        <h2 class="text-uppercase race-heading racecard">Race 2</h2>
+        <h2 class="text-uppercase race-heading racecard" id="race-2">Race 2</h2>
         <h5>04:40pm</h5>
         <h5>1400M</h5>
         <h5>Purse: $660,000</h5>
