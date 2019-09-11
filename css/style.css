@@ -139,14 +139,15 @@
 .race-table-horse-name {
   /* margin-top: -5px !important; */
   margin-bottom: 0;
-  color: #2bca7b;
+  color: #39ac6b;
+  /* color: #2bca7b; */
   font-size: 1.1em;
-  font-weight: 300;
+  /* font-weight: 300; */
 }
 
 .race-table-jockey-name {
   margin-bottom: 0;
-  color: #adadad;
+  /* color: #adadad; */
   font-size: 0.75em;
   font-weight: 300;
 }
@@ -183,6 +184,7 @@
   text-align: right;
   padding-right: 0 !important;
   font-size: 0.9em;
+  color: rgb(0, 0, 0);
 }
 
 .race-tiny-sub-heading,
@@ -540,6 +542,23 @@
   color: green;
 }
 
+.race-table-position {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.position-gold {
+  color: gold;
+}
+
+.position-silver {
+  color: silver;
+}
+
+.position-bronze {
+  color: #cd7f32;
+}
+
 /**---------------------------------------*/
 /**------------ MEDIA QUERIES ------------*/
 /**---------------------------------------*/
@@ -572,8 +591,9 @@
   .race-table-win-text,
   .race-table-win-number,
   .race-table-number-runner-ups,
-  .race-table-number-runner-ups-highlights {
-    font-size: 0.75em;
+  .race-table-number-runner-ups-highlights,
+  .race-table-number-finishers {
+    font-size: 0.9em;
   }
 
   .statistics-table {

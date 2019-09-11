@@ -1,279 +1,318 @@
-<!-- Race Results -->
+ <!-- Race Results -->
 
 <!-- Race Identifier -->
 <div class="row mt-4">
-<!-- Race Title -->
-<div class="col-sm-6">
-    <h2 class="text-uppercase race-heading" id="race-1">Race 1</h2>
-    <h5 class="race-sub-heading race-purse">$60,000, Starter Optional Claiming</h5>
-    <h5 class="race-sub-heading featured-race">THE JAMAICA OAKS (G.I)</h5>
-    <h6 class="race-sub-heading-small race-condition">
-    NB4-Y-O & UP OPT.CLM($250,0-$200,0)/NB6YO&UP(NW3)
-    </h6>
-    <h6 class="race-sub-heading-small featured-horse">Linton Steadman (2015)</h6>
-</div>
-<!-- End of Race Title -->
+    <!-- Race Title -->
+    <div class="col-sm-6">
+        <h2 class="text-uppercase race-heading" id="race-1">Race 1</h2>
+        <h5 class="race-sub-heading race-purse">
+        $60,000, Starter Optional Claiming
+        </h5>
+        <h5 class="race-sub-heading featured-race">THE JAMAICA OAKS (G.I)</h5>
+        <h6 class="race-sub-heading-small race-condition">
+        NB4-Y-O & UP OPT.CLM($250,0-$200,0)/NB6YO&UP(NW3)
+        </h6>
+        <h6 class="race-sub-heading-small featured-horse">
+        Linton Steadman (2015)
+        </h6>
+    </div>
+    <!-- End of Race Title -->
 
-<!-- Race Details -->
-<div class="col-md-6">
+    <!-- Race Details -->
+    <div class="col-md-6">
+        <div class="row">
+        <!-- Race Details Headers -->
+        <div class="col-sm-6 race-details-headers">
+            <ul>
+            <li>Off At:</li>
+            <li>Distance:</li>
+            <li>Track Condition:</li>
+            <li>Winning Time:</li>
+            <li>Splits:</li>
+            </ul>
+        </div>
+        <!-- End of Race Details Headers -->
+
+        <!-- Race Details Headers Data -->
+        <div class="col-sm-6 race-details-headers-data">
+            <ul>
+            <li>1:30PM</li>
+            <li>1100 M on Dirt</li>
+            <li>Good</li>
+            <li>1:10.30</li>
+            <li>24.1, 48.1</li>
+            </ul>
+        </div>
+        <!-- End of Race Details Headers-->
+        </div>
+    </div>
+    <!-- End of Race Details -->
+    </div>
+    <!-- End of Race Identifier -->
+
+    <!-- Race Body -->
     <div class="row">
-    <!-- Race Details Headers -->
-    <div class="col-sm-6 race-details-headers">
-        <ul>
-        <li>Off At:</li>
-        <li>Distance:</li>
-        <li>Track Condition:</li>
-        <li>Winning Time:</li>
-        <li>Splits:</li>
-        </ul>
+    <!-- Race Table -->
+    <div class="col-sm-12">
+        <table class="table race-table">
+        <thead class="race-table-head">
+            <tr>
+            <th class="race-table-head-normal">Results</th>
+            <th class="race-table-head-normal text-center">Pos</th>
+            <th class="race-table-head-normal"></th>
+            <th class="race-table-head-small-numbers-light th-mobile">
+                Kg
+            </th>
+            <th class="race-table-head-small-numbers-light">Odds</th>
+            <th class="race-table-head-small-numbers-light">Lgths</th>
+            <th class="race-table-head-small-numbers-light">Win</th>
+            <th class="race-table-head-small-numbers-light">Place</th>
+            </tr>
+        </thead>
+        <tbody class="race-table-body">
+            <tr>
+            <td class="race-table-saddle-number">
+                <p class="saddle saddle-color-6">6</p>
+            </td>
+            <td class="race-table-saddle-number">
+                <p class="race-table-position text-center position-gold">
+                1<sup>st</sup>
+                </p>
+            </td>
+            <td class="race-table-personnel">
+                <p class="race-table-horse-name">
+                Jon Marshal
+                </p>
+                <p class="race-table-jockey-name">K. McGregor</p>
+            </td>
+            <td class="race-table-win-number td-mobile">54.0</td>
+            <td class="race-table-win-number">9/5</td>
+            <td class="race-table-win-number">
+                <i class="fas fa-star icon-win-lengths"></i>
+            </td>
+            <td class="race-table-win-number-primary">$146.00</td>
+            <td class="race-table-win-number">$65.00</td>
+            </tr>
+            <tr>
+            <td class="race-table-saddle-number">
+                <p class="saddle saddle-color-3">3</p>
+            </td>
+            <td class="race-table-saddle-number">
+                <p class="race-table-position text-center position-silver">
+                2<sup>nd</sup>
+                </p>
+            </td>
+            <td class="race-table-personnel">
+                <p class="race-table-horse-name">
+                Big Paul
+                </p>
+                <p class="race-table-jockey-name">D. Satchel</p>
+            </td>
+            <td class="race-table-number-runner-ups td-mobile">52.0</td>
+            <td class="race-table-number-runner-ups">5/2</td>
+            <td class="race-table-number-runner-ups">3พ</td>
+            <td class="race-table-number-runner-ups-highlight">-</td>
+            <td class="race-table-number-runner-ups-highlight">-</td>
+            </tr>
+            <tr>
+            <td class="race-table-saddle-number">
+                <p class="saddle saddle-color-2">2</p>
+            </td>
+            <td class="race-table-saddle-number">
+                <p class="race-table-position text-center position-bronze">
+                3<sup>rd</sup>
+                </p>
+            </td>
+            <td class="race-table-personnel">
+                <p class="race-table-horse-name">
+                Cue Three
+                </p>
+                <p class="race-table-jockey-name">R. Smith</p>
+            </td>
+            <td class="race-table-number-runner-ups td-mobile">53.0</td>
+            <td class="race-table-number-runner-ups">*8/5</td>
+            <td class="race-table-number-runner-ups">1</td>
+            <td class="race-table-number-runner-ups-highlight">-</td>
+            <td class="race-table-number-runner-ups-highlight">-</td>
+            </tr>
+            <tr>
+            <td class="race-table-saddle-number">
+                <p class="saddle saddle-color-4">4</p>
+            </td>
+            <td class="race-table-saddle-number">
+                <p class="race-table-position text-center position-other">
+                4<sup>th</sup>
+                </p>
+            </td>
+            <td class="race-table-personnel">
+                <p class="race-table-horse-name">Explosive Charge</p>
+                <p class="race-table-jockey-name">R. Roman</p>
+            </td>
+            <td class="race-table-number-finishers td-mobile">51.0</td>
+            <td class="race-table-number-finishers">51/1</td>
+            <td class="race-table-number-finishers">2</td>
+            <td class="race-table-number-finishers">-</td>
+            <td class="race-table-number-finishers">-</td>
+            </tr>
+            <tr>
+            <td class="race-table-saddle-number">
+                <p class="saddle saddle-color-7">7</p>
+            </td>
+            <td class="race-table-saddle-number">
+                <p class="race-table-position text-center position-other">
+                5<sup>th</sup>
+                </p>
+            </td>
+            <td class="race-table-personnel">
+                <p class="race-table-horse-name">Jason's Gold</p>
+                <p class="race-table-jockey-name">A. Martin</p>
+            </td>
+            <td class="race-table-number-finishers td-mobile">56.0</td>
+            <td class="race-table-number-finishers">5/2</td>
+            <td class="race-table-number-finishers">6ฝ</td>
+            <td class="race-table-number-finishers">-</td>
+            <td class="race-table-number-finishers">-</td>
+            </tr>
+            <tr>
+            <td class="race-table-saddle-number">
+                <p class="saddle saddle-color-5">5</p>
+            </td>
+            <td class="race-table-saddle-number">
+                <p class="race-table-position text-center position-other">
+                6<sup>th</sup>
+                </p>
+            </td>
+            <td class="race-table-personnel">
+                <p class="race-table-horse-name">Lion of Death</p>
+                <p class="race-table-jockey-name">S. Ellis</p>
+            </td>
+            <td class="race-table-number-finishers td-mobile">55.0</td>
+            <td class="race-table-number-finishers">5/1</td>
+            <td class="race-table-number-finishers">5</td>
+            <td class="race-table-number-finishers">-</td>
+            <td class="race-table-number-finishers">-</td>
+            </tr>
+            <tr>
+            <td class="race-table-saddle-number">
+                <p class="saddle saddle-color-1">1</p>
+            </td>
+            <td class="race-table-saddle-number">
+                <p class="race-table-position text-center position-other">
+                7<sup>th</sup>
+                </p>
+            </td>
+            <td class="race-table-personnel">
+                <p class="race-table-horse-name">Ninelifecat</p>
+                <p class="race-table-jockey-name">S. Townsend</p>
+            </td>
+            <td class="race-table-number-finishers td-mobile">53.0</td>
+            <td class="race-table-number-finishers">62/1</td>
+            <td class="race-table-number-finishers">ฝ</td>
+            <td class="race-table-number-finishers">-</td>
+            <td class="race-table-number-finishers">-</td>
+            </tr>
+        </tbody>
+        </table>
     </div>
-    <!-- End of Race Details Headers -->
+    <!-- End of Race Table -->
 
-    <!-- Race Details Headers Data -->
-    <div class="col-sm-6 race-details-headers-data">
-        <ul>
-        <li>1:30PM</li>
-        <li>1100 M on Dirt</li>
-        <li>Good</li>
-        <li>1:10.30</li>
-        <li>24.1, 48.1</li>
-        </ul>
+    <!-- Race Information -->
+    <div class="col-sm-12">
+        <p class="race-tiny-sub-heading">Scratches</p>
+        <p class="race-text">
+        <span class="race-scratches">1 - Americano</span>
+        </p>
     </div>
-    <!-- End of Race Details Headers-->
+    <div class="col-sm-6">
+        <p class="race-tiny-sub-heading">Winning Connections</p>
+        <p class="race-text">
+        <span class="race-winning-connection-header">Jockey:</span
+        ><span class="race-winning-connection-text">K. Mgregor</span>
+        </p>
+        <p class="race-text">
+        <span class="race-winning-connection-header">Trainer:</span
+        ><span class="race-winning-connection-text">Edward R. Barker</span>
+        </p>
+        <p class="race-text">
+        <span class="race-winning-connection-header">Owner:</span
+        ><span class="race-winning-connection-text"
+            >Chen, Danny J., Cestaro, James and Campbell Road Stables</span
+        >
+        </p>
+        <p class="race-text">
+        <span class="race-winning-connection-header">Breeder:</span
+        ><span class="race-winning-connection-text"
+            >Alex Lieblong & JoAnn Lieblong</span
+        >
+        </p>
     </div>
-</div>
-<!-- End of Race Details -->
-</div>
-<!-- End of Race Identifier -->
+    <div class="col-sm-6">
+        <p class="race-tiny-sub-heading">Claims</p>
+        <p class="race-text">
+        <span class="race-claims-text"
+            >Trainer Norman Smith claimed horse
+            <span class="saddle-tiny saddle-color-2">#2</span> Cue Three for
+            owner Unruly Connection.</span
+        >
+        </p>
+        <p class="race-text">
+        <span class="race-claims-text"
+            >Trainer Stanley Findley claimed horse
+            <span class="saddle-tiny saddle-color-5">#5</span> Lion Of Judah
+            for owner Patrick McKenzie.</span
+        >
+        </p>
+        <p class="race-text">
+        <span class="race-claims-text"
+            >Trainer Ryan Darby claimed horse
+            <span class="saddle-tiny saddle-color-6">#6</span> Jon Marshall
+            for owner Rohan Daley.</span
+        >
+        </p>
+        <p class="race-text">
+        <span class="race-claims-text"
+            >Trainer Edward Hamilton claimed horse
+            <span class="saddle-tiny saddle-color-7">#7</span> Jason's Gold
+            for owner Orville S. Johnson.</span
+        >
+        </p>
+    </div>
+    <!-- End of Race Information -->
 
-<!-- Race Body -->
-<div class="row">
-<!-- Race Table -->
-<div class="col-sm-12">
-    <table class="table race-table">
-    <thead class="race-table-head">
-        <tr>
-        <th class="race-table-head-normal">Results</th>
-        <th class="race-table-head-empty"></th>
-        <th class="race-table-head-small-numbers-light th-mobile">
-            Kg
-        </th>
-        <th class="race-table-head-small-numbers-light">Odds</th>
-        <th class="race-table-head-small-numbers-light">Lgths</th>
-        <th class="race-table-head-small-numbers-light">Win</th>
-        <th class="race-table-head-small-numbers-light">Place</th>
-        </tr>
-    </thead>
-    <tbody class="race-table-body">
-        <tr>
-        <td class="race-table-saddle-number">
-            <p class="saddle saddle-color-6">6</p>
-        </td>
-        <td class="race-table-personnel">
-            <p class="race-table-horse-name">
-            Jon Marshal <i class="fas fa-fw fa-trophy icon-gold"></i>
-            </p>
-            <p class="race-table-jockey-name">K. McGregor</p>
-        </td>
-        <td class="race-table-win-number td-mobile">54.0</td>
-        <td class="race-table-win-number">9/5</td>
-        <td class="race-table-win-number">
-            <i class="fas fa-star icon-win-lengths"></i>
-        </td>
-        <td class="race-table-win-number-primary">$146.00</td>
-        <td class="race-table-win-number">$65.00</td>
-        </tr>
-        <tr>
-        <td class="race-table-saddle-number">
-            <p class="saddle saddle-color-3">3</p>
-        </td>
-        <td class="race-table-personnel">
-            <p class="race-table-horse-name">
-            Big Paul <i class="fas fa-fw fa-trophy icon-silver"></i>
-            </p>
-            <p class="race-table-jockey-name">D. Satchel</p>
-        </td>
-        <td class="race-table-number-runner-ups td-mobile">52.0</td>
-        <td class="race-table-number-runner-ups">5/2</td>
-        <td class="race-table-number-runner-ups">3พ</td>
-        <td class="race-table-number-runner-ups-highlight">-</td>
-        <td class="race-table-number-runner-ups-highlight">-</td>
-        </tr>
-        <tr>
-        <td class="race-table-saddle-number">
-            <p class="saddle saddle-color-2">2</p>
-        </td>
-        <td class="race-table-personnel">
-            <p class="race-table-horse-name">
-            Cue Three <i class="fas fa-fw fa-trophy icon-bronze"></i>
-            </p>
-            <p class="race-table-jockey-name">R. Smith</p>
-        </td>
-        <td class="race-table-number-runner-ups td-mobile">53.0</td>
-        <td class="race-table-number-runner-ups">*8/5</td>
-        <td class="race-table-number-runner-ups">1</td>
-        <td class="race-table-number-runner-ups-highlight">-</td>
-        <td class="race-table-number-runner-ups-highlight">-</td>
-        </tr>
-        <tr>
-        <td class="race-table-saddle-number">
-            <p class="saddle saddle-color-4">4</p>
-        </td>
-        <td class="race-table-personnel">
-            <p class="race-table-horse-name">Explosive Charge</p>
-            <p class="race-table-jockey-name">R. Roman</p>
-        </td>
-        <td class="race-table-number-finishers td-mobile">51.0</td>
-        <td class="race-table-number-finishers">51/1</td>
-        <td class="race-table-number-finishers">2</td>
-        <td class="race-table-number-finishers">-</td>
-        <td class="race-table-number-finishers">-</td>
-        </tr>
-        <tr>
-        <td class="race-table-saddle-number">
-            <p class="saddle saddle-color-7">7</p>
-        </td>
-        <td class="race-table-personnel">
-            <p class="race-table-horse-name">Jason's Gold</p>
-            <p class="race-table-jockey-name">A. Martin</p>
-        </td>
-        <td class="race-table-number-finishers td-mobile">56.0</td>
-        <td class="race-table-number-finishers">5/2</td>
-        <td class="race-table-number-finishers">6ฝ</td>
-        <td class="race-table-number-finishers">-</td>
-        <td class="race-table-number-finishers">-</td>
-        </tr>
-        <tr>
-        <td class="race-table-saddle-number">
-            <p class="saddle saddle-color-5">5</p>
-        </td>
-        <td class="race-table-personnel">
-            <p class="race-table-horse-name">Lion of Death</p>
-            <p class="race-table-jockey-name">S. Ellis</p>
-        </td>
-        <td class="race-table-number-finishers td-mobile">55.0</td>
-        <td class="race-table-number-finishers">5/1</td>
-        <td class="race-table-number-finishers">5</td>
-        <td class="race-table-number-finishers">-</td>
-        <td class="race-table-number-finishers">-</td>
-        </tr>
-        <tr>
-        <td class="race-table-saddle-number">
-            <p class="saddle saddle-color-1">1</p>
-        </td>
-        <td class="race-table-personnel">
-            <p class="race-table-horse-name">Ninelifecat</p>
-            <p class="race-table-jockey-name">S. Townsend</p>
-        </td>
-        <td class="race-table-number-finishers td-mobile">53.0</td>
-        <td class="race-table-number-finishers">62/1</td>
-        <td class="race-table-number-finishers">ฝ</td>
-        <td class="race-table-number-finishers">-</td>
-        <td class="race-table-number-finishers">-</td>
-        </tr>
-    </tbody>
-    </table>
-</div>
-<!-- End of Race Table -->
+    <!-- Wager's Table -->
+    <div class="col-sm-12">
+        <table class="table table-sm wagers-table">
+        <thead class="wagers-table-head">
+            <tr>
+            <th class="wagers-table-head-normal">Wager Type</th>
+            <th class="wagers-table-head-other">Winners</th>
+            <th class="wagers-table-head-money">Payout</th>
+            </tr>
+        </thead>
+        <tbody class="wagers-table-body">
+            <tr>
+            <td class="wagers-table-text">$50 Exacta</td>
+            <td class="wagers-table-text">6-3</td>
+            <td class="wagers-table-money">$425.00</td>
+            </tr>
+            <tr>
+            <td class="wagers-table-text">$10 Trifecta</td>
+            <td class="wagers-table-text">6-3-2</td>
+            <td class="wagers-table-money">$401.00</td>
+            </tr>
+            <tr>
+            <td class="wagers-table-text">$10 Superfecta</td>
+            <td class="wagers-table-text">6-3-2-4</td>
+            <td class="wagers-table-money">$1,261.00</td>
+            </tr>
+        </tbody>
+        </table>
+    </div>
+    <!-- End of Wager's Table -->
 
-<!-- Race Information -->
-<div class="col-sm-12">
-    <p class="race-tiny-sub-heading">Scratches</p>
-    <p class="race-text">
-    <span class="race-scratches">1 - Americano</span>
-    </p>
-</div>
-<div class="col-sm-6">
-    <p class="race-tiny-sub-heading">Winning Connections</p>
-    <p class="race-text">
-    <span class="race-winning-connection-header">Jockey:</span
-    ><span class="race-winning-connection-text">K. Mgregor</span>
-    </p>
-    <p class="race-text">
-    <span class="race-winning-connection-header">Trainer:</span
-    ><span class="race-winning-connection-text">Edward R. Barker</span>
-    </p>
-    <p class="race-text">
-    <span class="race-winning-connection-header">Owner:</span
-    ><span class="race-winning-connection-text"
-        >Chen, Danny J., Cestaro, James and Campbell Road Stables</span
-    >
-    </p>
-    <p class="race-text">
-    <span class="race-winning-connection-header">Breeder:</span
-    ><span class="race-winning-connection-text"
-        >Alex Lieblong & JoAnn Lieblong</span
-    >
-    </p>
-</div>
-<div class="col-sm-6">
-    <p class="race-tiny-sub-heading">Claims</p>
-    <p class="race-text">
-    <span class="race-claims-text"
-        >Trainer Norman Smith claimed horse
-        <span class="saddle-tiny saddle-color-2">#2</span> Cue Three for
-        owner Unruly Connection.</span
-    >
-    </p>
-    <p class="race-text">
-    <span class="race-claims-text"
-        >Trainer Stanley Findley claimed horse
-        <span class="saddle-tiny saddle-color-5">#5</span> Lion Of Judah
-        for owner Patrick McKenzie.</span
-    >
-    </p>
-    <p class="race-text">
-    <span class="race-claims-text"
-        >Trainer Ryan Darby claimed horse
-        <span class="saddle-tiny saddle-color-6">#6</span> Jon Marshall
-        for owner Rohan Daley.</span
-    >
-    </p>
-    <p class="race-text">
-    <span class="race-claims-text"
-        >Trainer Edward Hamilton claimed horse
-        <span class="saddle-tiny saddle-color-7">#7</span> Jason's Gold
-        for owner Orville S. Johnson.</span
-    >
-    </p>
-</div>
-<!-- End of Race Information -->
-
-<!-- Wager's Table -->
-<div class="col-sm-12">
-    <table class="table table-sm wagers-table">
-    <thead class="wagers-table-head">
-        <tr>
-        <th class="wagers-table-head-normal">Wager Type</th>
-        <th class="wagers-table-head-other">Winners</th>
-        <th class="wagers-table-head-money">Payout</th>
-        </tr>
-    </thead>
-    <tbody class="wagers-table-body">
-        <tr>
-        <td class="wagers-table-text">$50 Exacta</td>
-        <td class="wagers-table-text">6-3</td>
-        <td class="wagers-table-money">$425.00</td>
-        </tr>
-        <tr>
-        <td class="wagers-table-text">$10 Trifecta</td>
-        <td class="wagers-table-text">6-3-2</td>
-        <td class="wagers-table-money">$401.00</td>
-        </tr>
-        <tr>
-        <td class="wagers-table-text">$10 Superfecta</td>
-        <td class="wagers-table-text">6-3-2-4</td>
-        <td class="wagers-table-money">$1,261.00</td>
-        </tr>
-    </tbody>
-    </table>
-</div>
-<!-- End of Wager's Table -->
-
-<!-- Advertisment -->
-<div class="col-sm-12 race-ads" id="ad-race-1">
-</div>
-<!-- End of Advertisment -->
+    <!-- Advertisment -->
+    <div class="col-sm-12 race-ads" id="ad-race-1"></div>
+    <!-- End of Advertisment -->
 </div>
 <!-- End of Race Body -->
 

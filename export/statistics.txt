@@ -16,7 +16,9 @@
           <th class="statistics-number-header">1<sup>st</sup></th>
           <th class="statistics-number-header">2<sup>nd</sup></th>
           <th class="statistics-number-header">3<sup>rd</sup></th>
-          <th class="statistics-number-header th-mobile">4<sup>th</sup></th>
+          <th class="statistics-number-header th-mobile">
+            4<sup>th</sup>
+          </th>
           <th class="statistics-number-header th-mobile">Unpl</th>
           <th class="statistics-number-header">Starts</th>
           <th class="statistics-number-header">Stakes</th>
@@ -27,9 +29,6 @@
           <td class="statistics-position">1</td>
           <td class="statistics-category horse">
             Supreme Soul
-            <span class="award-gold ml-3">
-              <i class="fas fa-award"></i>
-            </span>
           </td>
           <td class="statistics-number td-mobile">3</td>
           <td class="statistics-number">4</td>
@@ -44,9 +43,6 @@
           <td class="statistics-position">2</td>
           <td class="statistics-category horse">
             I Am Di One
-            <span class="award-silver ml-3">
-              <i class="fas fa-award"></i>
-            </span>
           </td>
           <td class="statistics-number td-mobile">3</td>
           <td class="statistics-number">4</td>
@@ -61,9 +57,7 @@
           <td class="statistics-position">3</td>
           <td class="statistics-category horse">
             Drummer Boy
-            <span class="award-bronze ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number td-mobile">3</td>
           <td class="statistics-number">4</td>
@@ -128,9 +122,7 @@
           <td class="statistics-position">1</td>
           <td class="statistics-category jockey">
             Mamdeen, Christopher R
-            <span class="award-gold ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">4</td>
           <td class="statistics-number">0</td>
@@ -142,9 +134,7 @@
           <td class="statistics-position">2</td>
           <td class="statistics-category jockey">
             Walker, Omar D
-            <span class="award-silver ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">4</td>
           <td class="statistics-number">0</td>
@@ -156,9 +146,7 @@
           <td class="statistics-position">3</td>
           <td class="statistics-category jockey">
             Lewis, Reyan
-            <span class="award-bronze ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">4</td>
           <td class="statistics-number">0</td>
@@ -214,9 +202,7 @@
           <td class="statistics-position">1</td>
           <td class="statistics-category trainer">
             Nunes, Anthony C
-            <span class="award-gold ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -228,9 +214,7 @@
           <td class="statistics-position">2</td>
           <td class="statistics-category jockey">
             Subratie, Gary A
-            <span class="award-silver ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -242,9 +226,7 @@
           <td class="statistics-position">3</td>
           <td class="statistics-category jockey">
             Dacosta, Wayne A
-            <span class="award-bronze ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -303,9 +285,7 @@
           <td class="statistics-position">1</td>
           <td class="statistics-category owner">
             Nunes, Anthony C
-            <span class="award-gold ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -316,9 +296,7 @@
           <td class="statistics-position">2</td>
           <td class="statistics-category jockey">
             Subratie, Gary A
-            <span class="award-silver ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -329,9 +307,7 @@
           <td class="statistics-position">3</td>
           <td class="statistics-category jockey">
             Dacosta, Wayne A
-            <span class="award-bronze ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -387,9 +363,7 @@
           <td class="statistics-position">1</td>
           <td class="statistics-category breeder">
             Nunes, Anthony C
-            <span class="award-gold ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -400,9 +374,7 @@
           <td class="statistics-position">2</td>
           <td class="statistics-category jockey">
             Subratie, Gary A
-            <span class="award-silver ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -413,9 +385,7 @@
           <td class="statistics-position">3</td>
           <td class="statistics-category jockey">
             Dacosta, Wayne A
-            <span class="award-bronze ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -472,9 +442,7 @@
           <td class="statistics-position">1</td>
           <td class="statistics-category groom">
             Nunes, Anthony C
-            <span class="award-gold ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -486,9 +454,7 @@
           <td class="statistics-position">2</td>
           <td class="statistics-category jockey">
             Subratie, Gary A
-            <span class="award-silver ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -500,9 +466,7 @@
           <td class="statistics-position">3</td>
           <td class="statistics-category jockey">
             Dacosta, Wayne A
-            <span class="award-bronze ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -561,7 +525,7 @@
               data-placement="top"
               title="Number of Porgeny to Race"
             >
-              <i class="far fa-question-circle"></i>
+              <i class="fas fa-question-circle"></i>
             </span>
           </th>
           <th class="statistics-number-header">
@@ -572,7 +536,7 @@
               data-placement="top"
               title="Average Stakes per Progeny"
             >
-              <i class="far fa-question-circle"></i>
+              <i class="fas fa-question-circle"></i>
             </span>
           </th>
         </tr>
@@ -582,9 +546,7 @@
           <td class="statistics-position">1</td>
           <td class="statistics-category sire">
             Nunes, Anthony C
-            <span class="award-gold ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -596,9 +558,7 @@
           <td class="statistics-position">2</td>
           <td class="statistics-category jockey">
             Subratie, Gary A
-            <span class="award-silver ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -610,9 +570,7 @@
           <td class="statistics-position">3</td>
           <td class="statistics-category jockey">
             Dacosta, Wayne A
-            <span class="award-bronze ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -671,7 +629,7 @@
               data-placement="top"
               title="Number of Porgeny to Race"
             >
-              <i class="far fa-question-circle"></i>
+              <i class="fas fa-question-circle"></i>
             </span>
           </th>
           <th class="statistics-number-header">
@@ -682,7 +640,7 @@
               data-placement="top"
               title="Average Stakes per Progeny"
             >
-              <i class="far fa-question-circle"></i>
+              <i class="fas fa-question-circle"></i>
             </span>
           </th>
         </tr>
@@ -692,9 +650,7 @@
           <td class="statistics-position">1</td>
           <td class="statistics-category dam">
             Nunes, Anthony C
-            <span class="award-gold ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -706,9 +662,7 @@
           <td class="statistics-position">2</td>
           <td class="statistics-category jockey">
             Subratie, Gary A
-            <span class="award-silver ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
@@ -720,9 +674,7 @@
           <td class="statistics-position">3</td>
           <td class="statistics-category jockey">
             Dacosta, Wayne A
-            <span class="award-bronze ml-3">
-              <i class="fas fa-award"></i>
-            </span>
+            
           </td>
           <td class="statistics-number">3</td>
           <td class="statistics-number">4</td>
