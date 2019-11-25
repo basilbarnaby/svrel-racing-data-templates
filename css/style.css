@@ -288,8 +288,8 @@
 }
 
 /* .info-title.racecard {
-  font-weight: bold;
-} */
+    font-weight: bold;
+  } */
 
 .normal-title.racecard {
   font-size: 0.8em;
@@ -557,6 +557,11 @@
 
 .position-bronze {
   color: #cd7f32;
+}
+
+.race-card-seperator {
+  border-bottom: 5px dashed #39ac6b;
+  margin-bottom: 50px;
 }
 
 /**---------------------------------------*/
